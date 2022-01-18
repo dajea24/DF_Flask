@@ -1,4 +1,4 @@
-python
+python==10
 flask
 numpy
 flask_wtf
