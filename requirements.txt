@@ -1,0 +1,7 @@
+python
+flask
+numpy
+flask_wtf
+wtforms
+keras
+joblib
